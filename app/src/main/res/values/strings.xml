@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dice Roller</string>
+    <string name="cta_roll">Roll</string>
+    <string name="dice_rolled">Dice rolled</string>
 </resources>
